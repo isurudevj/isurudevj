@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Isuru
 - 👀 I’m interested in low latency coding
-- 🌱 I’m currently learning kafka high througput and chronicles
+- 🌱 I’m currently learning QFJ and Chronicle Queue
 - 💞️ I’m looking to collaborate on quickfixj
 - 📫 How to reach me email - isurudevj@gmail.com
 
