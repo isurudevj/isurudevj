@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Isuru
 - 👀 I’m interested in low latency coding
-- 🌱 I’m currently learning QFJ and Chronicle Queue
-- 💞️ I’m looking to collaborate on quickfixj
+- 🌱 I’m currently learning aeron and artio
+- 💞️ I’m looking to collaborate on aeron
 - 📫 How to reach me email - isurudevj@gmail.com
 
 <!---
